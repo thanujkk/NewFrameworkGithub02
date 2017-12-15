@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegressionTestingSuite02">
+  <test name="RegressionTest02">
+    <classes>
+      <class name="com.mukesh.sel.hybrid.framework.testcases.VerifyLoginPageWithExtentReports"/>
+      <class name="com.mukesh.sel.hybrid.framework.testcases.VerifyLoginPageWithExtentReportsAndScreenshots"/>
+      <class name="com.mukesh.sel.hybrid.framework.testcases.VerifyHomePage23"/>
+      <class name="com.mukesh.sel.hybrid.framework.testcases.VerifyHomePage"/>
+      <class name="com.mukesh.sel.hybrid.framework.testcases.VerifyLoginPageWithExtentReportsAndScreenshotsFail"/>
+      <class name="com.mukesh.sel.hybrid.framework.testcases.VerifyLoginPage"/>
+    </classes>
+  </test> <!-- RegressionTest02 -->
+</suite> <!-- RegressionTestingSuite02 -->

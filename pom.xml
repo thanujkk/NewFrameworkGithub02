@@ -68,7 +68,7 @@
 		<configuration>
 		 
 		<suiteXmlFiles>
-		<suiteXmlFile>RegressoionTesting.xml</suiteXmlFile>
+		<suiteXmlFile>RegressoionTesting02.xml</suiteXmlFile>
 		</suiteXmlFiles>
 		 
 		</configuration>
