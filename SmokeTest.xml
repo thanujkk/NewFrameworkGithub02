@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BuildVerificationSuite">
+  <test name="BuildVerificationTest">
+    <classes>
+      <class name="com.mukesh.sel.hybrid.framework.testcases.VerifyHomePage"/>
+      <class name="com.mukesh.sel.hybrid.framework.testcases.VerifyLoginPage"/>
+    </classes>
+  </test> <!-- BuildVerificationTest -->
+</suite> <!-- BuildVerificationSuite -->

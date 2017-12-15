@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RegressionSuite]">
+  <test name="RegressionTest(failed)">
+    <classes>
+      <class name="com.mukesh.sel.hybrid.framework.testcases.VerifyLoginPageWithExtentReportsAndScreenshots">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.mukesh.sel.hybrid.framework.testcases.VerifyLoginPageWithExtentReportsAndScreenshots -->
+      <class name="com.mukesh.sel.hybrid.framework.testcases.VerifyLoginPageWithExtentReportsAndScreenshotsFail">
+        <methods>
+          <include name="testHomePage"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.mukesh.sel.hybrid.framework.testcases.VerifyLoginPageWithExtentReportsAndScreenshotsFail -->
+      <class name="com.mukesh.sel.hybrid.framework.testcases.VerifyLoginPageWithExtentReports">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.mukesh.sel.hybrid.framework.testcases.VerifyLoginPageWithExtentReports -->
+      <class name="com.mukesh.sel.hybrid.framework.testcases.VerifyLoginPage">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.mukesh.sel.hybrid.framework.testcases.VerifyLoginPage -->
+    </classes>
+  </test> <!-- RegressionTest(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->
